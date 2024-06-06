@@ -1,0 +1,17 @@
+
+target/
+dbt/gov_uk_pay/dbt_modules/
+dbt/gov_uk_pay/dbt_packages/
+dbt/gov_uk_pay/logs/
+dbt/gov_uk_pay/target/
+dbt/gov_uk_pay/.mypy_cache/
+.idea/
+
+dbt/logs/dbt.log
+logs/dbt.log
+dbt/gov_uk_pay/seeds/.gitkeep
+dbt/gov_uk_pay/snapshots/.gitkeep
+dbt/gov_uk_pay/tests/.gitkeep
+dbt/gov_uk_pay/macros/.gitkeep
+dbt/gov_uk_pay/analyses/.gitkeep
+dbt/gov_uk_pay/dbt_project.yml
